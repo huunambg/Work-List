@@ -1,6 +1,5 @@
 # Work List with SQFLite
 
-## Getting Started
 ## Image 
 
 <img src="https://github.com/huunambg/Work-list/blob/master/assets/app/2.jpg" alt="Home">
